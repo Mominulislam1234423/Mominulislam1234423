@@ -1,18 +1,31 @@
 # Mominul-Islam
 My GitHub profile README
 
-# 👋 Hello, I’m Mominul Islam
+👋 Hello, I’m Mominul Islam
 
-A motivated **MERN Stack Developer** who loves building clean, functional web applications. I enjoy turning ideas into real products and sharpening my **problem-solving skills** through algorithms and hands-on projects. Currently growing in **React, Backend development**, and exploring **DevOps fundamentals**.
+🚀 I’m a motivated MERN Stack Developer with a strong interest in Frontend development and a growing passion for DevOps.
+I enjoy building clean, functional web applications and improving my problem-solving skills through algorithms and hands-on projects.
 
----
+I work with MongoDB, Express.js, React.js, and Node.js, and I’m always eager to learn new technologies and sharpen my skill set.
 
-## 💫 About Me
-- 🔭 Currently working on **Frontend & MERN-based projects**  
-- 👯 Open to collaborating on **GitHub & open-source projects**  
-- 🌱 Improving **problem-solving & algorithmic thinking**  
-- 💬 Ask me about **JavaScript, React, MERN stack basics**  
-- 📫 Reach me: **mominulislam88@gmail.com**
+💫 About Me
+
+🔭 Currently working on Frontend & MERN-based projects
+
+👯 Open to collaborating on GitHub & open-source projects
+
+🌱 Actively improving my problem-solving & algorithmic thinking
+
+💬 Ask me about JavaScript, React, MERN stack basics
+
+📫 Reach me at: mominulislam88@gmail.com
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, Basic DevOps tools
 
 ---
 
