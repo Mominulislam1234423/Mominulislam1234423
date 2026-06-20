@@ -1,6 +1,3 @@
-# Mominul-Islam (Shawon)
-My GitHub profile READM
-
 # 👋 Hello, I’m Mominul Islam (Shawon)
 
 🚀 I’m a motivated **MERN Stack Developer** with a strong interest in **Frontend development** and a growing passion for **DevOps**.  
@@ -19,10 +16,10 @@ I work with **MongoDB, Express.js, React.js, and Node.js**, and I’m always eag
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominulislam88@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominul-islam-shawon-b187233a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominul-islam-shawon-b187233a7) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominulislam88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mominulislam1234423)
 
 ---
@@ -64,24 +61,36 @@ I work with **MongoDB, Express.js, React.js, and Node.js**, and I’m always eag
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mominulislam1234423&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mominulislam1234423&layout=compact)
+![Mominul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mominulislam1234423&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mominulislam1234423&layout=compact&theme=radial)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🍔 The Food Corner (Full-Stack)
+A full-stack MERN restaurant management and food delivery platform featuring dynamic cart management, Firebase authentication, and an interactive dashboard.
+* 🌐 [Live Demo](https://llmf56-5173.csb.app/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/The-Food-Corner)
+
+### 💼 Job Portal (Full-Stack)
+A modern full-stack job portal web application built with React.js, Node.js, Express.js, and MongoDB.
+* 🌐 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
+
 ### 🎓 Edukator (Client)
-A web platform enhancing interaction between **educational institutions, tutors, and students**.
+A web platform enhancing interaction between educational institutions, tutors, and students.
+* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
 
 ### 🤝 Study Together (Full-Stack)
-An online collaboration platform to help students **study together and manage assignments**.
+An online collaboration platform to help students study together and manage assignments.
+* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
 
 ### 🐾 Pet Adoption Portal
-A web application that allows users to **explore pets and apply for adoption** through an interactive UI.
+A web application that allows users to explore pets and apply for adoption through an interactive UI.
+* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
 
 ### 🛒 Gadget Heaven (E-commerce – Frontend)
 A modern gadget-focused e-commerce interface for browsing and managing smart devices.
+* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
 
 ---
 
