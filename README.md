@@ -76,21 +76,14 @@ A full-stack MERN restaurant management and food delivery platform featuring dyn
 A modern full-stack job portal web application built with React.js, Node.js, Express.js, and MongoDB.
 * 🌐 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
 
-### 🎓 Edukator (Client)
-A web platform enhancing interaction between educational institutions, tutors, and students.
-* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
-
-### 🤝 Study Together (Full-Stack)
-An online collaboration platform to help students study together and manage assignments.
-* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
-
 ### 🐾 Pet Adoption Portal
 A web application that allows users to explore pets and apply for adoption through an interactive UI.
-* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
+* 🌐 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
+  
 
 ### 🛒 Gadget Heaven (E-commerce – Frontend)
 A modern gadget-focused e-commerce interface for browsing and managing smart devices.
-* 💻 [GitHub Repository](https://github.com/Mominulislam1234423)
+* 🌐 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
 
 ---
 
