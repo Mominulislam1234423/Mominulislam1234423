@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn" alt="Banner" />
+  <img src="https://i.ibb.co.com/gFQLSNpx/header-1.png" alt="Mominul's Tech Banner" width="100%" />
 </p>
 
 <p align="center">
