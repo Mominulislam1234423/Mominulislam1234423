@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn" alt="Banner" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Mominulislam1234423/count.svg" alt="Total Visitors" />
+</p>
+
 # 👋 Hello, I’m Mominul Islam (Shawon)
 
 🚀 I’m a motivated **MERN Stack Developer** with a strong interest in **Frontend Development** and a growing passion for **DevOps**.  
@@ -68,21 +76,21 @@ I enjoy building clean, scalable, and responsive web applications using React.js
 
 ### 📌 Featured Projects:
 
-*   **🍔 The Food Corner (Full-Stack)**
+* **🍔 The Food Corner (Full-Stack)**
     A full-stack MERN restaurant management and food delivery platform featuring dynamic cart management, Firebase authentication, and an interactive dashboard.
-    *   🔗 [Live Demo](https://llmf56-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/The-Food-Corner)
+    * 🔗 [Live Demo](https://llmf56-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/The-Food-Corner)
 
-*   **💼 Job Portal (Full-Stack)**
+* **💼 Job Portal (Full-Stack)**
     A modern full-stack job portal web application built with React.js, Node.js, Express.js, and MongoDB.
-    *   🔗 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Job-Portal)
+    * 🔗 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Job-Portal)
 
-*   **🐾 Pet Adoption Portal**
+* **🐾 Pet Adoption Portal**
     A web application that allows users to explore pets and apply for adoption through an interactive UI.
-    *   🔗 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Peddy-Pet-Adoption-Platform)
+    * 🔗 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Peddy-Pet-Adoption-Platform)
 
-*   **🛒 Gadget Heaven (E-commerce – Frontend)**
+* **🛒 Gadget Heaven (E-commerce – Frontend)**
     A modern gadget-focused e-commerce interface for browsing and managing smart devices.
-    *   🔗 [Live Demo](https://mominulislam1234423.github.io/Gadget-Heaven/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Gadget-Heaven)
+    * 🔗 [Live Demo](https://mominulislam1234423.github.io/Gadget-Heaven/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Gadget-Heaven)
 
 ---
 
