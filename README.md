@@ -1,89 +1,101 @@
 # 👋 Hello, I’m Mominul Islam (Shawon)
 
-🚀 I’m a motivated **MERN Stack Developer** with a strong interest in **Frontend development** and a growing passion for **DevOps**.  
-I enjoy building clean, functional web applications and improving my **problem-solving skills** through algorithms and hands-on projects.
-
-I work with **MongoDB, Express.js, React.js, and Node.js**, and I’m always eager to learn new technologies and sharpen my skill set.
+🚀 I’m a motivated **MERN Stack Developer** with a strong interest in **Frontend Development** and a growing passion for **DevOps**.  
+I enjoy building clean, scalable, and responsive web applications using React.js and Tailwind CSS while constantly improving my **problem-solving skills** through algorithmic challenges and hands-on full-stack development.
 
 ---
 
-## 💫 About Me
-- 🔭 Currently working on **Frontend & MERN-based projects**
-- 👯 Open to collaborating on **GitHub & open-source projects**
-- 🌱 Actively improving **problem-solving & algorithmic thinking**
-- 💬 Ask me about **JavaScript, React, MERN stack basics**
-- 📫 Reach me at: **mominulislam88@gmail.com**
+### 💫 About Me:
+
+- 🔭 **I’m currently working on:** Advanced Frontend & Full-Stack MERN Projects.
+- 🚀 **I’m looking to collaborate on:** GitHub open-source or team projects.
+- 🌱 **I’m currently growing my skills in:** DevOps tools (Docker, Kubernetes) and Advanced Backend.
+- 💬 **Talk to me about:** JavaScript, React.js, MERN stack basics, and UI/UX design.
+- 📫 **Reach me at:** mominulislam88@gmail.com
 
 ---
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominul-islam-shawon-b187233a7) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominulislam88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mominulislam1234423)
-
----
-
-## 💻 Skills & Interests
-
-### MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Frontend & UI
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mominul-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mominulislam88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Mominulislam1234423" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🔥 GitHub Stats
+### 💻 Skills & Tech Stack:
 
-![Mominul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mominulislam1234423&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mominulislam1234423&layout=compact&theme=radial)
+#### 🚀 MERN Stack & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### 🖥️ Programming Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects:
 
-### 🍔 The Food Corner (Full-Stack)
-A full-stack MERN restaurant management and food delivery platform featuring dynamic cart management, Firebase authentication, and an interactive dashboard.
-* 🌐 [Live Demo](https://llmf56-5173.csb.app/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/The-Food-Corner)
+*   **🍔 The Food Corner (Full-Stack)**
+    A full-stack MERN restaurant management and food delivery platform featuring dynamic cart management, Firebase authentication, and an interactive dashboard.
+    *   🔗 [Live Demo](https://llmf56-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/The-Food-Corner)
 
-### 💼 Job Portal (Full-Stack)
-A modern full-stack job portal web application built with React.js, Node.js, Express.js, and MongoDB.
-* 🌐 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
+*   **💼 Job Portal (Full-Stack)**
+    A modern full-stack job portal web application built with React.js, Node.js, Express.js, and MongoDB.
+    *   🔗 [Live Demo](https://jkv5dn-5173.csb.app/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Job-Portal)
 
-### 🐾 Pet Adoption Portal
-A web application that allows users to explore pets and apply for adoption through an interactive UI.
-* 🌐 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
-  
+*   **🐾 Pet Adoption Portal**
+    A web application that allows users to explore pets and apply for adoption through an interactive UI.
+    *   🔗 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Peddy-Pet-Adoption-Platform)
 
-### 🛒 Gadget Heaven (E-commerce – Frontend)
-A modern gadget-focused e-commerce interface for browsing and managing smart devices.
-* 🌐 [Live Demo](https://mominulislam1234423.github.io/Peddy-Pet-Adoption-Platform/) | 💻 [GitHub Repository](https://github.com/Mominulislam1234423/Job-Portal)
+*   **🛒 Gadget Heaven (E-commerce – Frontend)**
+    A modern gadget-focused e-commerce interface for browsing and managing smart devices.
+    *   🔗 [Live Demo](https://mominulislam1234423.github.io/Gadget-Heaven/) | 💻 [GitHub Repo](https://github.com/Mominulislam1234423/Gadget-Heaven)
+
+---
+
+### 🔥 My Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mominulislam1234423&show_icons=true&theme=radical&count_private=true" alt="Mominul's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mominulislam1234423&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mominulislam1234423&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
